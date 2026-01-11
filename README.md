@@ -8,7 +8,7 @@
 
 -Uso de entornos linux
 
--Programador en C y python
+-Programador en C y python en neovim
 
 
 --------------------------------------------------------
