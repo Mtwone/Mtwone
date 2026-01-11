@@ -1,7 +1,6 @@
 --------------------------------------------------------
 
 --------------------------------------------------------
--![ClipWindowsGIF](https://github.com/user-attachments/assets/7274c48f-1e6c-4f3b-9e65-f621f9ff537e)
 
 -Actualmente soy estudiante de ingeniera en sistemas
 
@@ -11,6 +10,7 @@
 
 -programador del lenguaje C y python
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZkOWV5ajVhMjNoemJtZzA2amh6anZ2MmpreGF0dWNzcWlvdWt1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nNfRs2Unc5VxI3VnQB/giphy.gif
 
 <!--
 
