@@ -10,7 +10,8 @@
 
 -programador del lenguaje C y python
 
-https://tenor.com/es-US/view/uma-musume-gif-7022089828456732900
+![OguriOguriCapGIF](https://github.com/user-attachments/assets/d4e546cf-746f-433b-b8a8-ac893e2b54c5)
+
 <!--
 
 - 🔭 I’m currently working on ...
