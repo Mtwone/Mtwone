@@ -9,7 +9,7 @@
                                                         
 -Uso de entornos linux                                  |
                                                         
--Programador en C y python en neovim                    |![UmaMusumeUmaMusumePrettyDerbyGIF](https://github.com/user-attachments/assets/22db6743-cb13-4950-8448-56bbe7299a51)
+-Programador en C y python en neovim                    |
 
 
 
