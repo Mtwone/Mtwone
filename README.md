@@ -3,11 +3,11 @@
 --------------------------------------------------------
 
 -Actualmente soy estudiante de ingeniera en sistemas    |
-                                                        |
+                                                        
 -Constante aprendizaje e interes en ciberseguridad      |
-                                                        |
+                                                        
 -Uso de entornos linux                                  |
-                                                        |
+                                                        
 -Programador en C y python en neovim                    |
 
 
