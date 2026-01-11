@@ -6,9 +6,11 @@
 
 -Constante aprendizaje e interes en ciberseguridad
 
--uso de entornos linux
+-Uso de entornos linux
 
--programador del lenguaje C y python
+-Programador en C y python
+
+
 --------------------------------------------------------
 
 ![スティルインラブStillInLoveGIF](https://github.com/user-attachments/assets/9aeb0681-0344-4493-88a7-9ee3c454fc1a)
