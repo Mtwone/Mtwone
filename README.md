@@ -2,14 +2,14 @@
 
 --------------------------------------------------------
 
--Actualmente soy estudiante de ingeniera en sistemas    |![UmaMusumeOguriCapGIF](https://github.com/user-attachments/assets/9c9a035f-97d8-4cb4-981b-714b4b623cc9)
+-Actualmente soy estudiante de ingeniera en sistemas    |
 
                                                         
 -Constante aprendizaje e interes en ciberseguridad      |
                                                         
 -Uso de entornos linux                                  |
                                                         
--Programador en C y python en neovim                    |
+-Programador en C y python en neovim                    |![UmaMusumeOguriCapGIF](https://github.com/user-attachments/assets/9c9a035f-97d8-4cb4-981b-714b4b623cc9)
 
 
 --------------------------------------------------------
