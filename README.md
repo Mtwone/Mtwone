@@ -1,9 +1,13 @@
 --------------------------------------------------------
 
-<!--
-**Mtwone/Mtwone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------------------------------------
+-![ClipWindowsGIF](https://github.com/user-attachments/assets/7274c48f-1e6c-4f3b-9e65-f621f9ff537e)
+Actualmente soy estudiante de ingeniera en sistemas
+-Constante aprendizaje e interes en ciberseguridad
+-uso de entornos linux
+-programador del lenguaje C y python
 
-Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
