@@ -2,7 +2,8 @@
 
 --------------------------------------------------------
 
--Actualmente soy estudiante de ingeniera en sistemas    |
+-Actualmente soy estudiante de ingeniera en sistemas    |![UmaMusumeOguriCapGIF](https://github.com/user-attachments/assets/9c9a035f-97d8-4cb4-981b-714b4b623cc9)
+
                                                         
 -Constante aprendizaje e interes en ciberseguridad      |
                                                         
