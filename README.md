@@ -2,10 +2,15 @@
 
 --------------------------------------------------------
 -![ClipWindowsGIF](https://github.com/user-attachments/assets/7274c48f-1e6c-4f3b-9e65-f621f9ff537e)
-Actualmente soy estudiante de ingeniera en sistemas
+
+-Actualmente soy estudiante de ingeniera en sistemas
+
 -Constante aprendizaje e interes en ciberseguridad
+
 -uso de entornos linux
+
 -programador del lenguaje C y python
+
 
 <!--
 
