@@ -12,7 +12,6 @@
 
 
 ![スティルインラブStillInLoveGIF](https://github.com/user-attachments/assets/9aeb0681-0344-4493-88a7-9ee3c454fc1a)
-![UmaMusumeStillInLoveGIF](https://github.com/user-attachments/assets/f20e8f61-537f-4720-a27e-5046e702b56e)
 
 <!--
 
